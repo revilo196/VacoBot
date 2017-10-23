@@ -122,7 +122,10 @@ float headingNow;
 
 //Sensor Werte verarbeiten
 msonar.update(millis());
+<<<<<<< HEAD
 //Navi Werte verarbeiten
+=======
+>>>>>>> 47a06804240ab517eebf63b992c9ae65daa7df72
 navi.update(millis());
 
 
