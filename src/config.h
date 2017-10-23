@@ -20,6 +20,6 @@
 
 #define BAUD 9600
 
-
+#define ANGLE_CLEAN 117.5
 
 #endif
